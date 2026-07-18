@@ -40,8 +40,7 @@ dependencies {
     implementation("com.google.android.material:material:1.12.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
 
-    // --- UVC (USB kamera) kütüphanesi: jiangdg AndroidUSBCamera / libausbc ---
-    implementation("com.github.jiangdg.AndroidUSBCamera:libausbc:3.3.3")
+    
 
     // --- CameraX (telefonun kendi kamerası) ---
     val camerax = "1.3.4"
